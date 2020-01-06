@@ -1,2 +1,5 @@
 # Richman
-Self-design Richman with memes in sail
+
+Self-design Richman with memes in SAIL.
+
+Remember the hapiness forever.
